@@ -1,0 +1,11 @@
+{
+  "name": "LAZARUS",
+  "display_name": "Lazarus Research",
+  "version": "0.1.0",
+  "bundle_id": "com.lazarus.research",
+  "target_device": "iPhone 12",
+  "target_ios": "iOS 27.3 beta 2",
+  "build": "24C5049f",
+  "language": "Swift",
+  "purpose": "iOS diagnostics and research"
+}
